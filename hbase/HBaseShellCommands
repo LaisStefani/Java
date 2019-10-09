@@ -1,0 +1,22 @@
+put 'census', 1, 'personal:name', 'Mike Jones'
+put 'census', 1, 'personal:marital_status', 'unmarried'
+put 'census', 1, 'personal:gender', 'male'
+put 'census', 1, 'professional:employed', 'yes'
+put 'census', 1, 'professional:education_level', 'high school'
+put 'census', 1, 'professional:field', 'construction'
+
+put 'census', 3, 'personal:name', 'Jill Tang'
+put 'census', 3, 'personal:marital_status', 'married'
+put 'census', 3, 'personal:spouse', 'Jim Tang'
+put 'census', 3, 'professional:education_level', 'post-grad'
+put 'census', 3, 'personal:gender', 'female'
+
+put 'census', 2, 'personal:name', 'Ben'
+put 'census', 2, 'personal:marital_status', 'divorced'
+put 'census', 2, 'personal:gender', 'male'
+
+put 'census', 4, 'personal:name', 'Maria'
+put 'census', 4, 'personal:marital_status', 'divorced'
+put 'census', 4, 'personal:gender', 'female'
+
+
